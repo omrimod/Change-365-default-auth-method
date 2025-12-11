@@ -1,0 +1,13 @@
+{
+  "tenent_id": "your-tenent-id",
+  "client_id": "your-client-id",
+  "client_secret": "your-client-secret",
+  "doNotTouchUsers": {
+    "user1",
+    "user2"
+  },
+  "proxy": {
+    "use_proxy": false,
+    "proxy_server": ""
+  }
+}
